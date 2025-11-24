@@ -15,8 +15,7 @@ Hi! I'm Mahmoud Gado 👋<br>A passionate MERN-Stack Developer who loves buildin
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MahmoudGado1&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MahmoudGado1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MahmoudGado1&icon=0&color=2)](https://visitcount.itsvg.in)
